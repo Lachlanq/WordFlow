@@ -17,3 +17,4 @@ local.properties
 Thumbs.db
 *.log
 capture/
+.claude/
