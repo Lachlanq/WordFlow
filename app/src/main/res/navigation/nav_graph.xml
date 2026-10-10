@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.wordflow.app.home.HomeFragment"
+        android:label="@string/nav_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_books"
+        android:name="com.wordflow.app.wordbooks.WordBooksFragment"
+        android:label="@string/nav_books"
+        tools:layout="@layout/fragment_word_books" />
+    <fragment
+        android:id="@+id/nav_analytics"
+        android:name="com.wordflow.app.analytics.AnalyticsFragment"
+        android:label="@string/nav_analytics"
+        tools:layout="@layout/fragment_analytics" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.wordflow.app.profile.ProfileFragment"
+        android:label="@string/nav_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

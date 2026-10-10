@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height">36dp</dimen>
+    <dimen name="toolbar_height">48dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_spacing">16dp</dimen>
+    <dimen name="content_margin">16dp</dimen>
+    <dimen name="list_item_spacing">12dp</dimen>
+    <dimen name="icon_size_small">24dp</dimen>
+    <dimen name="icon_size_medium">36dp</dimen>
+    <dimen name="icon_size_large">48dp</dimen>
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_body">14sp</dimen>
+    <dimen name="text_size_caption">12sp</dimen>
+    <dimen name="elevation_card">2dp</dimen>
+    <dimen name="bottom_nav_height">56dp</dimen>
+    <dimen name="progress_size">120dp</dimen>
+    <dimen name="quick_entry_size">72dp</dimen>
+    <dimen name="word_card_height">320dp</dimen>
+</resources>
