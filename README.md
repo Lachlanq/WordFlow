@@ -1,4 +1,3 @@
-[WordFlow-README.md](https://github.com/user-attachments/files/33280769/WordFlow-README.md)
 # WordFlow — 英语单词学习 App
 
 一款基于 **Android + Java + Room** 的单词记忆应用，实现「看词 → 揭示释义 → 三级反馈 → SM-2 算法调度复习」的完整学习闭环，并用图表呈现学习数据。
